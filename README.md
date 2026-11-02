@@ -3,7 +3,7 @@ An enterprise-grade Power BI analytical solution connecting MySQL transactional 
 ## Live Interactive Dashboard
 [![Live Power BI Report](https://img.shields.io/badge/Power_BI-Live_Interactive_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/4d3c9cc9-7cec-4267-bc78-3a4d1a423c71/b5d4cb6797478205a11b?experience=power-bi)
 
-> 💡 Click the badge above to view and interact with the live dashboard online.
+> Click the badge above to view and interact with the live dashboard online.
 ## Dashboard Preview
 
 ### Page 1: Executive Overview
