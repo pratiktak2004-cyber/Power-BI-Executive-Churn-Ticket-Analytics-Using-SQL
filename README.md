@@ -1,5 +1,13 @@
 # Power-BI-Executive-Churn-Ticket-Analytics-Using-SQL
 An enterprise-grade Power BI analytical solution connecting MySQL transactional databases (fact_customer_churn and support_tickets) to track customer churn behavior, contractual risk factors, and support ticket resolution metrics across a multi-page interactive dashboard.
+## Dashboard Preview
+
+### Page 1: Executive Overview
+![Executive Overview Dashboard](Screenshot%20\(388\).png)
+
+### Page 2: Support Operations & Drill-Down
+![Support Operations Dashboard](Screenshot%20\(389\).png)
+
 # Executive Churn & Support Ticket Analytics Dashboard
 
 An end-to-end business intelligence solution built in **Power BI Desktop** powered by a **MySQL** database (`churn_analytics`). This dashboard provides executive leadership and operations teams with real-time visibility into customer retention drivers, contract leakages, and support service bottlenecks.
